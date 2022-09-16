@@ -22,4 +22,6 @@ printf("multiplication of a and b = %d ",d);
 e=a/b;
 
 printf("divsion of a and b  = %d ",e);
+  
+  printf("hello world");
 }
